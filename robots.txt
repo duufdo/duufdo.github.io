@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://duufdo.github.io/fOD/sitemap.fOD
